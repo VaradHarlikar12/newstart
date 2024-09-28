@@ -1,4 +1,0 @@
-i am an test file used to fix bug
-another one
-antoher bug fixed
-another bug found?
